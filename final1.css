@@ -1,0 +1,40 @@
+h1{
+    background-color:rgb(213, 252, 218);
+    text-align:middle;
+}
+
+h4{
+    text-align: center;
+
+}
+h5{
+    float: center;
+    text-align: center;
+
+
+
+
+}
+b{
+    background-color: rgb(197, 219, 197);
+    color:black;
+}
+nav a{
+    padding:15px 70px;
+    color: rgb(0, 0, 0);
+    size: 50px;
+    background-color: rgba(187, 230, 187, 0.555);
+}
+nav a:hover{
+    color: red;
+}
+
+p{
+    float: left;
+}
+img{
+    width: 200px;
+    height: 200px;
+    float: right;
+
+}
